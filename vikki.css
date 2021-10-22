@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(255, 145, 0);
+}
+
+h1 {
+  font-size: 100px;
+  margin-right: 30px;
+}
+
+.one {
+  display: flex;
+}
+
+h2 {
+  font-size: 50px;
+}
